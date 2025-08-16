@@ -1,0 +1,5 @@
+{
+  "name": "Email Polisher AI",
+  "description": "An AI-powered application to help users refine their emails. Users provide raw thoughts, select a desired tone, and optionally include an email they are responding to. The app uses the Gemini API to generate a polished, ready-to-send email.",
+  "requestFramePermissions": []
+}
